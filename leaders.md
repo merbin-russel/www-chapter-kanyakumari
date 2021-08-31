@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Merbin Russel  ](mailto:merbin.russel@owasp.org)
+* [Ragavender A G](mailto:ragavender.ag@owasp.org)
