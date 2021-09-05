@@ -10,7 +10,7 @@ postal-code: 629175
 ---
 
 # Welcome
-<img src="assets/images/anniversary.png" alt="anniversary.png"/>
+<img src="assets/images/owasp-kanyakumari.PNG" alt="owasp-kanyakumari.PNG"/>
 
 
 Welcome to the Kanyakumari chapter homepage. Kanyakumari OWASP Chapter was started on September 2021. We host information security events, seminars, and workshops.
