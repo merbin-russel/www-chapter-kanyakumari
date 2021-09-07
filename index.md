@@ -28,7 +28,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Would you like to speak on the upcoming OWASP Kanyakumari Meetings? 
 Contact:
   [Merbin Russel](mailto:merbin.russel@owasp.org) (or)
-  [RAGAVENDER A G](mailto:ragavenderag@protonmail.com)
+  [RAGAVENDER A G](mailto:ragavender.ag@owasp.org)
 
 **Email Format :**
 
